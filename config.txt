@@ -1,1 +1,4 @@
 PERTAMAX
+hostname LEAF1
+interface loopback0 1.1.1.1
+interface loopback1 11.11.11.11
