@@ -1,1 +1,2 @@
 router bgp 65000
+router id 1.1.1.1
